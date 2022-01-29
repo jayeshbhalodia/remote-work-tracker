@@ -1,0 +1,20 @@
+{
+  "name": "remote-work-tracker",
+  "version": "0.0.1",
+  "description": "Remote work tracker - Desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/jayeshbhalodia/remote-work-tracker",
+  "keywords": [
+    "Work Tracker",
+    "Remote work",
+    "Employee work tracker",
+  ],
+  "author": "jayeshbhalodia",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.8"
+  }
+}
